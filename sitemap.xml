@@ -1,51 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://protypers.com/index.html</loc>
-    <lastmod>2017-09-09</lastmod>
+    <loc>http://222protypers.com/index.html</loc>
+    <lastmod>2017-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://protypers.com/images/83d47e0e4dc0a55ff625bb3366967189.png</image:loc>
+      <image:loc>http://222protypers.com/images/83d47e0e4dc0a55ff625bb3366967189.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://protypers.com/images/pic05-crop-u797.jpg</image:loc>
+      <image:loc>http://222protypers.com/images/pic05-crop-u797.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://protypers.com/images/fb_icon_325x325.png</image:loc>
+      <image:loc>http://222protypers.com/images/fb_icon_325x325.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://protypers.com/images/b5e05-crop-u783.png</image:loc>
+      <image:loc>http://222protypers.com/images/b5e05-crop-u783.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://protypers.com/images/price.png</image:loc>
+      <image:loc>http://222protypers.com/images/price.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://protypers.com/images/icq-4-512.png</image:loc>
+      <image:loc>http://222protypers.com/images/icq-4-512.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://protypers.com/images/facebook-symbol_318-37686.jpg</image:loc>
+      <image:loc>http://222protypers.com/images/facebook-symbol_318-37686.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://protypers.com/images/youtube-4-512_zpsbfad3656.png</image:loc>
+      <image:loc>http://222protypers.com/images/youtube-4-512_zpsbfad3656.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://protypers.com/images/b5e05-crop-u1763.png</image:loc>
+      <image:loc>http://222protypers.com/images/b5e05-crop-u1763.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://protypers.com/buy-protyper.html</loc>
-    <lastmod>2017-09-09</lastmod>
+    <loc>http://222protypers.com/buy-protyper.html</loc>
+    <lastmod>2017-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://protypers.com/images/icq-4-512.png</image:loc>
+      <image:loc>http://222protypers.com/images/icq-4-512.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://protypers.com/images/facebook-symbol_318-37686.jpg</image:loc>
+      <image:loc>http://222protypers.com/images/facebook-symbol_318-37686.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://protypers.com/images/b5e05-crop-u2285.png</image:loc>
+      <image:loc>http://222protypers.com/images/webmoney_1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://222protypers.com/images/moneda-bitcoin.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://222protypers.com/images/b5e05-crop-u2285.png</image:loc>
     </image:image>
   </url>
 </urlset>

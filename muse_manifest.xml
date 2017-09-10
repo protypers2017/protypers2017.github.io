@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="protypers.com" resolutions="1x" timestamp="1504981039280">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="222protypers.com" resolutions="1x" timestamp="1505077145691">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3455335" ref="index"/>
-    <file name="buy-protyper.css" crc="74589199" ref="buy-protyper"/>
+    <file name="index.css" crc="3882105927" ref="index"/>
+    <file name="buy-protyper.css" crc="3916209159" ref="buy-protyper"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:buy-protyper"/>
@@ -10,16 +10,10 @@
     <file name="whatinput.js" crc="86476730" ref="index:buy-protyper"/>
     <file name="museconfig.js" crc="3849126041" ref="index:buy-protyper"/>
     <file name="jquery.watch.js" crc="3844535323" ref="index:buy-protyper"/>
-    <file name="require.js" crc="4234670167" ref="index:buy-protyper"/>
     <file name="jquery.scrolleffects.js" crc="146279342" ref="index:buy-protyper"/>
+    <file name="require.js" crc="4234670167" ref="index:buy-protyper"/>
   </folder>
   <folder name="images">
-    <file name="captcha_wallpaper_by_juneii-d4udust.jpg" crc="4097945071" ref="index:buy-protyper">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="buy-protyper" alt=""/>
-      <caption webpage="buy-protyper" alt=""/>
-    </file>
     <file name="83d47e0e4dc0a55ff625bb3366967189.png" crc="4270846499" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -49,10 +43,22 @@
     <file name="b5e05-crop-u1763.png" crc="285697543" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="captcha_wallpaper_by_juneii-d4udust.jpg" crc="4097945071" ref="index:buy-protyper">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="buy-protyper" alt=""/>
+      <caption webpage="buy-protyper" alt=""/>
+    </file>
+    <file name="webmoney_1.png" crc="4039344965" seo="true" ref="buy-protyper">
+      <caption webpage="buy-protyper" alt=""/>
+    </file>
+    <file name="moneda-bitcoin.png" crc="7586983" seo="true" ref="buy-protyper">
+      <caption webpage="buy-protyper" alt=""/>
+    </file>
     <file name="b5e05-crop-u2285.png" crc="3922827651" seo="true" ref="buy-protyper">
       <caption webpage="buy-protyper" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4116527053" seo="true" mt="1504980848002" redirect="true"/>
-  <file name="buy-protyper.html" crc="3851958708" seo="true" mt="1504980889441" redirect="true"/>
+  <file name="index.html" crc="3887529346" seo="true" mt="1505075991756" redirect="true"/>
+  <file name="buy-protyper.html" crc="3774904357" seo="true" mt="1505077058647" redirect="true"/>
 </manifest>
