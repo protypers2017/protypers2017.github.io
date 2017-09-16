@@ -1,42 +1,43 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="protyper2017.com" resolutions="1x" timestamp="1505566702096">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="protyper2017.com" resolutions="1x" timestamp="1505571606270">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="buy-protyper.css" crc="3994812015" ref="buy-protyper"/>
-    <file name="index.css" crc="3921610471" ref="index"/>
+    <file name="buy-protyper.css" crc="398933476" ref="buy-protyper"/>
+    <file name="index.css" crc="4286658900" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:buy-protyper"/>
     <file name="museutils.js" crc="4232573551" ref="index:buy-protyper"/>
     <file name="whatinput.js" crc="86476730" ref="index:buy-protyper"/>
     <file name="museconfig.js" crc="3849126041" ref="index:buy-protyper"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:buy-protyper"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="buy-protyper"/>
     <file name="require.js" crc="4234670167" ref="index:buy-protyper"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index:buy-protyper"/>
   </folder>
   <folder name="images">
-    <file name="83d47e0e4dc0a55ff625bb3366967189.png" crc="4270846499" seo="true" ref="index">
+    <file name="83d47e0e4dc0a55ff625bb3366967189.png" crc="4166008047" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic05-crop-u797.jpg" crc="441604568" seo="true" ref="index">
+    <file name="pic05-crop-u797.jpg" crc="345202162" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="fb_icon_325x325.png" crc="339151603" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="b5e05-crop-u783.png" crc="287211661" seo="true" ref="index">
+    <file name="b5e05-crop-u783.png" crc="4032381509" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icq-4-512.png" crc="536436337" seo="true" ref="index:buy-protyper">
       <caption webpage="index" alt=""/>
       <caption webpage="buy-protyper" alt=""/>
     </file>
-    <file name="facebook-symbol_318-37686.jpg" crc="4058810352" seo="true" ref="index:buy-protyper">
+    <file name="facebook-symbol_318-37686.jpg" crc="429251340" seo="true" ref="index:buy-protyper">
       <caption webpage="index" alt=""/>
       <caption webpage="buy-protyper" alt=""/>
     </file>
-    <file name="b5e05-crop-u1763.png" crc="285697543" seo="true" ref="index">
+    <file name="b5e05-crop-u1763.png" crc="402365273" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="price.png" crc="314176974" seo="true" ref="index">
+    <file name="price.png" crc="481133760" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="captcha_wallpaper_by_juneii-d4udust.jpg" crc="4097945071" ref="index:buy-protyper">
@@ -53,10 +54,10 @@
       <caption webpage="buy-protyper" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="b5e05-crop-u2285.png" crc="3922827651" seo="true" ref="buy-protyper">
+    <file name="b5e05-crop-u2285.png" crc="4126436203" seo="true" ref="buy-protyper">
       <caption webpage="buy-protyper" alt=""/>
     </file>
-    <file name="megatypers.jpg" crc="3850784320" seo="true" ref="index">
+    <file name="megatypers.jpg" crc="59797732" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="visa.png" crc="4170887944" seo="true" ref="index">
@@ -71,7 +72,7 @@
     <file name="img_16092017_151034_0.jpg" crc="234452276" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_16092017_152630_0-crop-u2750.jpg" crc="447621012" seo="true" ref="index">
+    <file name="img_16092017_152630_0-crop-u2750.jpg" crc="4196595881" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="paypal_2014_logo.png" crc="268071192" seo="true" ref="index">
@@ -80,28 +81,28 @@
     <file name="payza-logo-grey-background.jpg" crc="384703265" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="b5e05-crop-u2668.png" crc="282665957" seo="true" ref="index">
+    <file name="b5e05-crop-u2668.png" crc="53859000" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="megatypers-software-screen-shot.jpg" crc="4125144397" seo="true" ref="index">
+    <file name="megatypers-software-screen-shot.jpg" crc="316066552" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mt soft asia 8-21-2015 9-53-55 am.png" crc="372890321" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="youtube-4-512_zpsbfad3656-crop-u1305.png" crc="61596197" seo="true" ref="index">
+    <file name="mt soft asia 8-21-2015 9-53-55 am.png" crc="4054952034" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_16092017_150957_0.jpg" crc="471173190" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="webmoney_12.png" crc="4039344965" seo="true" ref="buy-protyper">
+    <file name="webmoney_12.png" crc="33943618" seo="true" ref="buy-protyper">
       <caption webpage="buy-protyper" alt=""/>
     </file>
-    <file name="moneda-bitcoin2.png" crc="7586983" seo="true" ref="buy-protyper">
+    <file name="moneda-bitcoin2.png" crc="4020035576" seo="true" ref="buy-protyper">
       <caption webpage="buy-protyper" alt=""/>
+    </file>
+    <file name="youtube-4-512_zpsbfad3656.png" crc="342002344" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="425827787" seo="true" mt="1505566625723" redirect="true"/>
-  <file name="buy-protyper.html" crc="3944590301" seo="true" mt="1505566665312" redirect="true"/>
+  <file name="index.html" crc="168814983" seo="true" mt="1505571025570" redirect="true"/>
+  <file name="buy-protyper.html" crc="435966456" seo="true" mt="1505571317693" redirect="true"/>
 </manifest>
